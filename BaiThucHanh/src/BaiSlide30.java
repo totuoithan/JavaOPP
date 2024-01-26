@@ -9,7 +9,7 @@ public class BaiSlide30 {
         while (n > 0) {
         soDu = n % 10;
         n = n / 10;
-        tong += soDu;
+        tong = tong + soDu;
         }
     System.out.println("tong cac chu so = " + tong);
     sc.close();
