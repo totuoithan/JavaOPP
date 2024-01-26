@@ -4,6 +4,7 @@ public class Bai1 {
     public static void main(String[] args) {
         double so1, so2;
         Scanner scanner = new Scanner(System.in);
+        
         System.out.print("Nhap so thu nhat: ");
         so1 = scanner.nextDouble();
         System.out.print("Nhap so thu hai: ");
