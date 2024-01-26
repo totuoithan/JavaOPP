@@ -9,9 +9,9 @@ public class GiaiPTbac1{
         b= sc.nextDouble();
         if(a == 0){
             if(b == 0){
-                System.out.println(" PT co vo so nghiem");
+                System.out.println(" Phuong trinh co vo so nghiem");
             } else{
-                System.out.println(" PT vo nghiem");
+                System.out.println(" Phuong trinh vo nghiem");
             }
         } else{
             x= -b/a;
