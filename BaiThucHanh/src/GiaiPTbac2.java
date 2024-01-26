@@ -14,11 +14,11 @@ public class GiaiPTbac2 {
             System.out.println("Phuong trinh vo nghiem");
         } else if(delta == 0){
             double x= x1 =x2 = -b/(2*a);
-            System.out.println("phuong trinh co nghiem kep = " +x);
+            System.out.println("PT co nghiem kep = " +x);
         } else{
             x1 = -b + Math.sqrt(delta) / (2 * a);
             x2 = -b - Math.sqrt(delta) / (2 * a);
-            System.out.println("phuong trinh co 2 nghiem phan biet: ");
+            System.out.println("PT co 2 nghiem phan biet: ");
             System.out.println("x1 = "+ x1);
             System.out.println("x2 = " +x2);
         }
