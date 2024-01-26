@@ -11,9 +11,9 @@ public class Bai3 {
         int namhientai = Year.now().getValue();
         int tuoi = namhientai -namsinh;
         if( tuoi < 16){
-            System.out.println("Ban" + ten + " o do tuoi vi thanh nien");
+            System.out.println("Ban " + ten + " o do tuoi vi thanh nien");
         } else if(tuoi >= 16 && tuoi < 18 ){
-            System.out.println(" Ban "+ ten + " o do tuoi truong thanh");
+            System.out.println("Ban "+ ten + " o do tuoi truong thanh");
         } else {
             System.out.println("Ban " + ten + " da gia");
         }
