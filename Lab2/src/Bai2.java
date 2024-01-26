@@ -11,5 +11,6 @@ public class Bai2 {
         } else {
             System.out.println(so + " la so le ");
         }
+        sc.close();
     }
 }

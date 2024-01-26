@@ -17,5 +17,6 @@ public class GiaiPTbac1{
             x= -b/a;
             System.out.println("x= "+x);
         }
+        sc.close();
     }
 }
