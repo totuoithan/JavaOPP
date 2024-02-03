@@ -1,7 +1,5 @@
 import java.util.Scanner;
-/**
- * Bai9
- */
+
 public class Bai9 {
 
     public static void main(String[] args) {
@@ -17,9 +15,7 @@ public class Bai9 {
             } else if (chuoi.charAt(i) >= 48 && chuoi.charAt(i) <= 57) {
                 ++So;
             } else if (chuoi.charAt(i)>122) {
-                
              System.out.println("Chuoi co ki tu khong xac dinh");}
-            
         }
         System.out.println("So ki tu viet thuong trong chuoi la : "+kytuthuong);
         System.out.println("So ki tu viet hoa trong chuoi la : "+kytuhoa);
