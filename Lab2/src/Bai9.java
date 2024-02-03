@@ -6,8 +6,9 @@ public class Bai9 {
         Scanner sc = new Scanner(System.in);
         System.out.print("nhap chuoi ky tu : ");
         String chuoi = sc.nextLine();
+        
         int So = 0, kytuthuong = 0, kytuhoa = 0;
-        for(int i=0;i < chuoi.length();i++) {
+        for(int i = 0;i < chuoi.length();i++) {
             if(chuoi.charAt(i) >= 97 && chuoi.charAt(i) <= 122 ) {
                 ++kytuthuong;
             } else if (chuoi.charAt(i) >= 65 && chuoi.charAt(i) <= 90) {
