@@ -13,7 +13,7 @@ public class HinhTru extends HinhTron {
         chieuCao = sc.nextFloat();
     }
     public void tinhTheTich() {
-        theTich = dienTich * chieuCao;
+        theTich = r * r * PI  * chieuCao;
     }
     
 }

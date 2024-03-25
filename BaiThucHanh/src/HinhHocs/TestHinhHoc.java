@@ -1,9 +1,4 @@
-package main;
-
-import HinhHocs.HinhChuNhat;
-import HinhHocs.HinhTron;
-import HinhHocs.HinhTru;
-import HinhHocs.HinhVuong;
+package HinhHocs;
 
 public class TestHinhHoc {
     public static void main(String[] args) {
