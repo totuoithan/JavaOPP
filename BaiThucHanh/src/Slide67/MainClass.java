@@ -1,9 +1,9 @@
-package Override;
+package Slide67;
 
 public class MainClass {
     public static void main(String[] args) {
-        HinhTron ht = new HinhTron();
-        HinhTru htr = new HinhTru();
+        Hinhtron ht = new Hinhtron();
+        Hinhtru htr = new Hinhtru();
         ht.XuatThongTin();
         htr.XuatThongTin();
     }

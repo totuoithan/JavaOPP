@@ -1,6 +1,6 @@
-package Override;
+package Slide67;
 
-public class HinhTru extends HinhTron {
+public class Hinhtru extends Hinhtron {
     @Override
     public void XuatThongTin(){
         System.out.println("Day la Hinh Tru ");
