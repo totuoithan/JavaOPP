@@ -1,4 +1,4 @@
-package Slide72;
+package Slide72Lab3;
 
 public class SinhVien {
     private String ten;
