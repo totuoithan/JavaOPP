@@ -1,4 +1,4 @@
-package Slide67;
+package Slide67Lab3;
 
 public class Hinhtron {
     public void XuatThongTin(){

@@ -1,4 +1,4 @@
-package Slide67;
+package Slide67Lab3;
 
 public class MainClass {
     public static void main(String[] args) {
