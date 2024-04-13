@@ -1,4 +1,4 @@
-package Slide71;
+package Slide71Lab3;
 
 public class Hinhtron {
     private final float Pi =3.14f;
