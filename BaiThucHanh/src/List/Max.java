@@ -20,6 +20,7 @@ public class Max {
                 max = arrListInteger.get(i);
             }
         }
+        sc.close();
         System.out.println("Phan tu lon nhat trong arrListInteger la: " + max);
     }        
 }

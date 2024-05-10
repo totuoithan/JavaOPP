@@ -25,6 +25,7 @@ public class Date {
             String node = linkedList.get(index);
             System.out.println(" phan tu co chi so = " + index + " trong linkedList la: " + node);
         }
+        sc.close();
         String firstNode = linkedList.getFirst();
         String lastNode = linkedList.getLast();
         System.out.println("phan tu dau tien trong danh sach la: " + firstNode + "; phan tu cuoi cung trong danh sach la: " + lastNode);
