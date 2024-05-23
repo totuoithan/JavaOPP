@@ -21,6 +21,6 @@ public class Bai1 {
         System.out.println("List sau khi xoa: " +arrayList);
         Collections.sort(arrayList);
         System.out.println("List sau khi sap xep: " + arrayList);
-
+        sc.close();
     }
 }
